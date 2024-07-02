@@ -1,0 +1,1 @@
+# GameHub/__init__.py
